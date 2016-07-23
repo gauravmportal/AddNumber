@@ -10,6 +10,7 @@ public class addition {
         x=10;y=90;
         z=x+y;
         System.out.println("addtion of 2 number: " +z);
+        System.out.println("Hi gaurav");
 	}
 
 }
