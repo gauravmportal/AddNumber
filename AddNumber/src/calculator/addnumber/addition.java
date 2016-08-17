@@ -11,7 +11,7 @@ public class addition {
         z=x+y;
         System.out.println("addtion of 2 number: " +z);
         System.out.println("Hi gaurav...today is 18-Aug-2016");
-      System.out.println("test6 on 18-aug-2016");
+      System.out.println("test7 on 18-aug-2016");
 	}
 
 }
