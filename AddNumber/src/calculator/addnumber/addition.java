@@ -10,8 +10,8 @@ public class addition {
         x=10;y=90;
         z=x+y;
         System.out.println("addtion of 2 number: " +z);
-        System.out.println("Hi gaurav...today is 17-Aug-2016");
-      System.out.println("test2 on 17-aug-2016");
+        System.out.println("Hi gaurav...today is 18-Aug-2016");
+      System.out.println("test2 on 18-aug-2016");
 	}
 
 }
